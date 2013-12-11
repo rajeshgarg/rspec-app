@@ -19,6 +19,7 @@ group :development, :test do
   gem 'rspec-expectations'
   gem 'rspec-rails'
   gem 'watchr'
+   gem 'ci_reporter'
 end
 gem 'spork'
 gem 'execjs'
