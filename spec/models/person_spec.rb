@@ -8,6 +8,7 @@ describe Person do
   end
 
   it "can be saved successfully" do
+  	pending "to be done"
     Person.create.should be_persisted
   end
 end
